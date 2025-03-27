@@ -23,7 +23,7 @@ int process(vector<int> locations1, vector<int> locations2) {
 }
 
 int main(int argc, char const *argv[]) {
-    //ifstream input("input.txt", ifstream::in);
+    // ifstream input("input.txt", ifstream::in);
     ifstream input("puzzle_input.txt", ifstream::in);
     vector<int> locations1, locations2;
     int c1, c2;
